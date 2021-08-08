@@ -1,7 +1,6 @@
 {
   "name": "truffleboilerplate",
   "version": "1.0.0",
-  "description": "",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -15,5 +14,14 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.2.0",
     "@truffle/hdwallet-provider": "^1.4.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarsonCase/Truffle-Boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CarsonCase/Truffle-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/CarsonCase/Truffle-Boilerplate#readme",
+  "description": ""
 }
